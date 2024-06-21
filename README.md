@@ -1,4 +1,4 @@
-## Oie! 👋
+## It's Me, Hi! 👋
 
 Meu nome é **Pedro.**
 
