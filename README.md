@@ -4,7 +4,7 @@ Meu nome é **Pedro.**
 
 - Estou estudando na Alura;
 
-- Estou me desenvolvendo na linguagem de Computação;
+- Estou me desenvolvendo na linguagem de programação;
 
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
